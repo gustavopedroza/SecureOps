@@ -1,8 +1,8 @@
-# **SecureOps - Sistema de Monitoramento e Controle de Equipamentos Industriais via MQTT**
+# **Sistema de Monitoramento e Controle de Equipamentos Industriais via MQTT**
 
 ## **Descrição do Funcionamento e Uso**
 
-O **SecureOps** é um sistema de monitoramento e controle de equipamentos industriais, baseado na tecnologia de Internet das Coisas (IoT), utilizando o protocolo MQTT para comunicação. O sistema é composto por um conjunto de sensores, atuadores e uma plataforma de microcontrolador (NodeMCU) para gerenciar as interações entre eles. A principal função do **SecureOps** é detectar atividades não autorizadas em equipamentos industriais, como a ativação indevida de um dispositivo ou falha na operação, e enviar alertas para os operadores ou administradores.
+O sistema de monitoramento e controle de equipamentos industriais, baseado na tecnologia de Internet das Coisas (IoT), utilizando o protocolo MQTT para comunicação. O sistema é composto por um conjunto de sensores, atuadores e uma plataforma de microcontrolador (NodeMCU) para gerenciar as interações entre eles. A principal função do **SecureOps** é detectar atividades não autorizadas em equipamentos industriais, como a ativação indevida de um dispositivo ou falha na operação, e enviar alertas para os operadores ou administradores.
 
 ### **Funcionalidade Principal:**
 - **Sensores**: Detectam mudanças no ambiente (por exemplo, presença de movimento, sobrecarga de corrente).
